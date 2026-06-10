@@ -77,7 +77,13 @@ See `week_based/Final/EOL70/README.md` and `week_based/Final/EOL70/3step/README.
 
 ## Data Assumptions
 
-The experimental data comes from the Iowa State University / Iowa Lakes Community College dataset:
+The experimental data comes from the Iowa State University / Iowa Lakes Community College dataset introduced in the battery lifetime prediction paper by Li et al.:
+
+- Paper: [Predicting Battery Lifetime Under Varying Usage Conditions from Early Aging Data](https://arxiv.org/abs/2307.08382)
+- Authors: Tingkai Li, Zihao Zhou, Adam Thelen, David Howey, and Chao Hu
+- Journal version: Cell Reports Physical Science, 5(4), 101891, 2024
+- Journal DOI: [10.1016/j.xcrp.2024.101891](https://doi.org/10.1016/j.xcrp.2024.101891)
+- arXiv DOI: [10.48550/arXiv.2307.08382](https://doi.org/10.48550/arXiv.2307.08382)
 
 - Dataset: [ISU-ILCC Battery Aging Dataset](https://iastate.figshare.com/articles/dataset/_b_ISU-ILCC_Battery_Aging_Dataset_b_/22582234)
 - DOI: [10.25380/iastate.22582234](https://doi.org/10.25380/iastate.22582234)
