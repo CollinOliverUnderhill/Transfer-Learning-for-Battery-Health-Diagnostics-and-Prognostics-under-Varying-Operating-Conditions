@@ -1,0 +1,41 @@
+﻿week,step,feature_key,feature_short,target_key,valid_n,pearson_r,spearman_r,plot_file
+3,1,f1_w3,Step 1: log|mean dQ/dV delta 3.6-3.9V| [w3],lifetime_weeks_EOL60,227,-0.7793346970867144,-0.7762308374740025,step01_f1_w3.svg
+3,2,f2_w3,Step 2: log|delta CV time| [w3],lifetime_weeks_EOL60,227,0.2080368179083814,0.35179851716369226,step02_f2_w3.svg
+3,3,f3_w3,Step 3: DoD [w3],lifetime_weeks_EOL60,228,-0.7227581270792751,-0.7693048358180188,step03_f3_w3.svg
+3,4,f4_w3,Step 4: delta Q1 DVA [w3],lifetime_weeks_EOL60,225,0.10904934638663764,0.09158030224934532,step04_f4_w3.svg
+3,5,f5_w3,Step 5: sqrt(Cchg)*sqrt(DoD) [w3],lifetime_weeks_EOL60,228,-0.6432823060786924,-0.6672036169728822,step05_f5_w3.svg
+3,6,f6_w3,Step 6: Cchg [w3],lifetime_weeks_EOL60,228,-0.08613872195201845,-0.10006039268364328,step06_f6_w3.svg
+3,7,f7_w3,Step 7: log|var dQ/dV delta 3.0-3.6V| [w3],lifetime_weeks_EOL60,227,-0.24351409291420487,-0.19431688164329966,step07_f7_w3.svg
+3,8,f8_w3,Step 8: delta Q3 DVA [w3],lifetime_weeks_EOL60,225,-0.27679035846474126,-0.2545770792712581,step08_f8_w3.svg
+3,9,f9_w3,Step 9: log|mean dQ/dV delta 3.0-3.6V| [w3],lifetime_weeks_EOL60,227,-0.022901883758267832,-0.07085957222853251,step09_f9_w3.svg
+3,10,f10_w3,Step 10: log|CV time w0| [w3],lifetime_weeks_EOL60,228,0.18380528789367506,0.278144614236929,step10_f10_w3.svg
+5,1,f1_w5,Step 1: log|mean dQ/dV delta 3.6-3.9V| [w5],lifetime_weeks_EOL60,224,-0.8032578130167769,-0.8628915393155174,step01_f1_w5.svg
+5,2,f2_w5,Step 2: log|delta CV time| [w5],lifetime_weeks_EOL60,224,0.2878166033710601,0.48059047646562225,step02_f2_w5.svg
+5,3,f3_w5,Step 3: DoD [w5],lifetime_weeks_EOL60,228,-0.7227581270792751,-0.7693048358180188,step03_f3_w5.svg
+5,4,f4_w5,Step 4: delta Q1 DVA [w5],lifetime_weeks_EOL60,221,0.22828829261875128,0.24262016593666258,step04_f4_w5.svg
+5,5,f5_w5,Step 5: sqrt(Cchg)*sqrt(DoD) [w5],lifetime_weeks_EOL60,228,-0.6432823060786924,-0.6672036169728822,step05_f5_w5.svg
+5,6,f6_w5,Step 6: Cchg [w5],lifetime_weeks_EOL60,228,-0.08613872195201845,-0.10006039268364328,step06_f6_w5.svg
+5,7,f7_w5,Step 7: log|var dQ/dV delta 3.0-3.6V| [w5],lifetime_weeks_EOL60,224,-0.33374510108395483,-0.3493493351882826,step07_f7_w5.svg
+5,8,f8_w5,Step 8: delta Q3 DVA [w5],lifetime_weeks_EOL60,221,-0.3272223774721805,-0.3764751399366272,step08_f8_w5.svg
+5,9,f9_w5,Step 9: log|mean dQ/dV delta 3.0-3.6V| [w5],lifetime_weeks_EOL60,224,-0.06435087751857163,-0.11023065081963099,step09_f9_w5.svg
+5,10,f10_w5,Step 10: log|CV time w0| [w5],lifetime_weeks_EOL60,228,0.18380528789367506,0.278144614236929,step10_f10_w5.svg
+10,1,f1_w10,Step 1: log|mean dQ/dV delta 3.6-3.9V| [w10],lifetime_weeks_EOL60,207,-0.8287316698360447,-0.9393612944447556,step01_f1_w10.svg
+10,2,f2_w10,Step 2: log|delta CV time| [w10],lifetime_weeks_EOL60,207,0.04208087388550784,-0.06559637729758971,step02_f2_w10.svg
+10,3,f3_w10,Step 3: DoD [w10],lifetime_weeks_EOL60,228,-0.7227581270792751,-0.7693048358180188,step03_f3_w10.svg
+10,4,f4_w10,Step 4: delta Q1 DVA [w10],lifetime_weeks_EOL60,187,0.04163472080630213,-0.09455830719407732,step04_f4_w10.svg
+10,5,f5_w10,Step 5: sqrt(Cchg)*sqrt(DoD) [w10],lifetime_weeks_EOL60,228,-0.6432823060786924,-0.6672036169728822,step05_f5_w10.svg
+10,6,f6_w10,Step 6: Cchg [w10],lifetime_weeks_EOL60,228,-0.08613872195201845,-0.10006039268364328,step06_f6_w10.svg
+10,7,f7_w10,Step 7: log|var dQ/dV delta 3.0-3.6V| [w10],lifetime_weeks_EOL60,207,-0.6788688896462609,-0.8486090530358735,step07_f7_w10.svg
+10,8,f8_w10,Step 8: delta Q3 DVA [w10],lifetime_weeks_EOL60,187,-0.5706710956330244,-0.773315789401326,step08_f8_w10.svg
+10,9,f9_w10,Step 9: log|mean dQ/dV delta 3.0-3.6V| [w10],lifetime_weeks_EOL60,207,-0.42606719165749124,-0.6437784266657924,step09_f9_w10.svg
+10,10,f10_w10,Step 10: log|CV time w0| [w10],lifetime_weeks_EOL60,228,0.18380528789367506,0.278144614236929,step10_f10_w10.svg
+15,1,f1_w15,Step 1: log|mean dQ/dV delta 3.6-3.9V| [w15],lifetime_weeks_EOL60,146,-0.8297300933289459,-0.9398985278541842,step01_f1_w15.svg
+15,2,f2_w15,Step 2: log|delta CV time| [w15],lifetime_weeks_EOL60,146,-0.10596529623981049,-0.2565281646213065,step02_f2_w15.svg
+15,3,f3_w15,Step 3: DoD [w15],lifetime_weeks_EOL60,228,-0.7227581270792751,-0.7693048358180188,step03_f3_w15.svg
+15,4,f4_w15,Step 4: delta Q1 DVA [w15],lifetime_weeks_EOL60,115,-0.01259768664749335,-0.27351509807339985,step04_f4_w15.svg
+15,5,f5_w15,Step 5: sqrt(Cchg)*sqrt(DoD) [w15],lifetime_weeks_EOL60,228,-0.6432823060786924,-0.6672036169728822,step05_f5_w15.svg
+15,6,f6_w15,Step 6: Cchg [w15],lifetime_weeks_EOL60,228,-0.08613872195201845,-0.10006039268364328,step06_f6_w15.svg
+15,7,f7_w15,Step 7: log|var dQ/dV delta 3.0-3.6V| [w15],lifetime_weeks_EOL60,146,-0.7527400578872111,-0.9052653497592724,step07_f7_w15.svg
+15,8,f8_w15,Step 8: delta Q3 DVA [w15],lifetime_weeks_EOL60,115,-0.6368781144213066,-0.8128123033478755,step08_f8_w15.svg
+15,9,f9_w15,Step 9: log|mean dQ/dV delta 3.0-3.6V| [w15],lifetime_weeks_EOL60,146,-0.6340601228448831,-0.8191325992046832,step09_f9_w15.svg
+15,10,f10_w15,Step 10: log|CV time w0| [w15],lifetime_weeks_EOL60,228,0.18380528789367506,0.278144614236929,step10_f10_w15.svg

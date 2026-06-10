@@ -1,0 +1,4 @@
+﻿split,target_domain,n_cells,n_groups,lifetime_mean,lifetime_median,lifetime_std,lifetime_min,lifetime_max
+train,source,167,43,13.270743,12.518000,4.428705,5.204000,30.738000
+fine_tune,target,35,18,27.726629,26.386000,8.356498,15.626000,48.923000
+test,target,29,17,27.153310,27.237000,6.705667,13.902000,40.243000

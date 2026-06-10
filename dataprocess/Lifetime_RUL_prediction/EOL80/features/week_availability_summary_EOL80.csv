@@ -1,0 +1,5 @@
+﻿week,usable_non_nan_cells,status_ok_cells,missing_or_nan_cells,total_cells
+3,240,243,6,246
+5,234,239,12,246
+10,195,215,51,246
+15,120,151,126,246

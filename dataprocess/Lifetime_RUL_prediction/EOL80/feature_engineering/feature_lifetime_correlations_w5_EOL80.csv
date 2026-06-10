@@ -1,0 +1,11 @@
+﻿week,step,feature_key,feature_short,target_key,valid_n,pearson_r,spearman_r,plot_file
+5,1,f1_w5,Step 1: log|mean dQ/dV delta 3.6-3.9V| [w5],lifetime_weeks_EOL80,244,-0.8421316030235311,-0.9030750612327505,step01_f1_w5.svg
+5,2,f2_w5,Step 2: log|delta CV time| [w5],lifetime_weeks_EOL80,244,0.2572598266799201,0.37751331967752205,step02_f2_w5.svg
+5,3,f3_w5,Step 3: DoD [w5],lifetime_weeks_EOL80,251,-0.6766561966972106,-0.6581665718080061,step03_f3_w5.svg
+5,4,f4_w5,Step 4: delta Q1 DVA [w5],lifetime_weeks_EOL80,239,0.20311715403148728,0.22875162617348194,step04_f4_w5.svg
+5,5,f5_w5,Step 5: sqrt(Cchg)*sqrt(DoD) [w5],lifetime_weeks_EOL80,251,-0.7701847451708375,-0.7876835515082528,step05_f5_w5.svg
+5,6,f6_w5,Step 6: Cchg [w5],lifetime_weeks_EOL80,251,-0.31449524423910813,-0.3479010706571241,step06_f6_w5.svg
+5,7,f7_w5,Step 7: log|var dQ/dV delta 3.0-3.6V| [w5],lifetime_weeks_EOL80,244,-0.5153990975493801,-0.579061497094284,step07_f7_w5.svg
+5,8,f8_w5,Step 8: delta Q3 DVA [w5],lifetime_weeks_EOL80,239,-0.4877185803845181,-0.6203570549558736,step08_f8_w5.svg
+5,9,f9_w5,Step 9: log|mean dQ/dV delta 3.0-3.6V| [w5],lifetime_weeks_EOL80,244,-0.24575584117134214,-0.4044558442684906,step09_f9_w5.svg
+5,10,f10_w5,Step 10: log|CV time w0| [w5],lifetime_weeks_EOL80,251,0.21738945758213007,0.27183255857771815,step10_f10_w5.svg

@@ -1,0 +1,2 @@
+﻿feature_week,usable_cells,train_cells,fine_tune_cells,test_cells,train_groups,target_groups,train_group_frac,ft_cell_frac
+w6,228,164,34,30,43,18,0.7,0.15

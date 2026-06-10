@@ -1,0 +1,35 @@
+{
+  "task_type": "lifetime_prediction",
+  "feature_aliases": [
+    "f1",
+    "f3",
+    "f5",
+    "f8",
+    "f2"
+  ],
+  "hidden_dims": [
+    8,
+    8,
+    8
+  ],
+  "dropout": 0.0,
+  "activation": "relu",
+  "epochs": 800,
+  "ft_epochs": 800,
+  "batch_size": 16,
+  "lr": 0.0007,
+  "ft_lr": 5e-05,
+  "weight_decay": 0.0001,
+  "ft_weight_decay": 0.0001,
+  "val_cell_frac": 0.2,
+  "early_stop_patience": 25,
+  "min_epochs_before_early_stop": 0,
+  "ft_min_epochs_before_early_stop": 0,
+  "ft_freeze_hidden_layers": 2,
+  "tail_q": 0.95,
+  "seed": 2,
+  "device": "auto",
+  "experiment_name": "fixed_8x8x8_freeze2",
+  "config_source": "E:\\Datasets\\IVAS\\Lifetime_Prediction\\EOL60\\Final_result\\r02_8x8x8_relu_lr7e4_wd1e4_bs16_ft800_splitft_freeze2\\transfer_model\\config.json",
+  "y_col": "lifetime_weeks_EOL55"
+}

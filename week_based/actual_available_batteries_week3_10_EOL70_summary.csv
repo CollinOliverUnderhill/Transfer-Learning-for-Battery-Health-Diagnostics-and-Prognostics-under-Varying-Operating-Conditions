@@ -1,0 +1,8 @@
+"week","available_cells","source_train_cells","target_fine_tune_cells","target_test_cells","check_sum","split_file"
+"3","237","169","36","32","237","Final\EOL70\domain_split\cell_split_targetspread_w3_EOL70.csv"
+"5","231","167","35","29","231","Final\EOL70\domain_split\cell_split_targetspread_w5_EOL70.csv"
+"6","228","164","34","30","228","Final\EOL70\domain_split\cell_split_targetspread_w6_EOL70.csv"
+"7","223","159","33","31","223","Final\EOL70\domain_split\cell_split_targetspread_w7_EOL70.csv"
+"8","217","153","33","31","217","Final\EOL70\domain_split\cell_split_targetspread_w8_EOL70.csv"
+"9","207","143","31","33","207","Final\EOL70\domain_split\cell_split_targetspread_w9_EOL70.csv"
+"10","192","128","29","35","192","Final\EOL70\domain_split\cell_split_targetspread_w10_EOL70.csv"

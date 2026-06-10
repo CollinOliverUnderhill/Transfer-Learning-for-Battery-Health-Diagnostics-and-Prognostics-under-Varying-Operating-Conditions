@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Runtime outputs
+results/
+outputs/
+outputs_*/
+stage1_runs/
+stage2_runs/
+logs/
+*.log
+
+# Models and search databases
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated figures / reports
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.html
+*.pdf
+
+# Local machine state
+*.code-workspace
+.DS_Store
+Thumbs.db
